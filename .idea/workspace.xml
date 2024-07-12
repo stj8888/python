@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e3d4637-ea79-420d-98e1-cad879227985" name="Changes" comment="新建目录" />
+    <list default="true" id="4e3d4637-ea79-420d-98e1-cad879227985" name="Changes" comment="初始化项目" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +81,7 @@
       <updated>1720755673509</updated>
       <workItem from="1720755674948" duration="3745000" />
       <workItem from="1720764861083" duration="439000" />
-      <workItem from="1720765311833" duration="626000" />
+      <workItem from="1720765311833" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="新建目录">
       <option name="closed" value="true" />
@@ -91,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720764149536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初始化项目">
+      <option name="closed" value="true" />
+      <created>1720766272661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720766272661</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建目录" />
+    <MESSAGE value="初始化项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化项目" />
   </component>
 </project>
